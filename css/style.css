@@ -89,7 +89,7 @@ iframe {
 .header__burger {
   display: none;
   margin: 0 0 0 auto;
-  z-index: 3;
+  z-index: 11;
 }
 .header__burger span {
   display: block;
